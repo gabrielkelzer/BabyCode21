@@ -1,6 +1,8 @@
 import os
 
 #fala meu caro leitor, oque está abaixo são as funções em python
+#Barra de ferramentas é salvar e etc já a barra de navegação é os arquivos 
+
 
 clear = lambda: os.system('clear') #clear serve pra limpar a tela
 
